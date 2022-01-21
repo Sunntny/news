@@ -1,0 +1,67 @@
+.register{
+    width:520px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid #cccccc;
+    height:350px;
+}
+.register h1{
+    font-weight: normal;
+    font-size: 20px;
+    width: 233px;
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    margin-left: 116px;
+    padding-top: 23px;
+}
+
+.register span:nth-of-type(1) {
+    display: block;
+    text-align: left;
+    border: 1px solid #DDDDDD;
+    width: 300px;
+    margin-left: 113px;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+}
+.register span:nth-of-type(1) input{
+    margin-left: 0;
+    border: none;
+    display: block;
+    width: 294px;
+    margin-top: 15px;
+    border: 1px solid white ;
+    margin-bottom: 5px;
+}
+.register span:nth-of-type(2){
+    display: block;
+    text-align: left;
+    border: 1px solid #DDDDDD;
+    width: 300px;
+    margin-left: 113px;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.register span:nth-of-type(2) input{
+    margin-left: 0;
+    border: none;
+    display: block;
+    width: 294px;
+    margin-top: 15px;
+    border: 1px solid white ;
+    margin-bottom: 5px;
+}
+.register span:nth-of-type(3){
+    display: inline-block;
+ background-color: #45B549 ;
+ color: white;
+ padding:10px 60px;
+ margin-top: 15px;
+ border-radius: 8px;
+ margin-left: 20px;
+ margin-top: 30px;
+}
